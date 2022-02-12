@@ -1,4 +1,4 @@
-<p style="align:center;background:#5429cc;">
+<p align="center" background="red">
     <img src="./.github/logo.svg" alt="Move It" width="300"/>
 </p>
 
