@@ -12,7 +12,7 @@
   </sub>
 </div>
 
-### 📌 Contents
+## 📌 Contents
 
 - [Screenshots](#camera-screenshot)
 - [Technologies](#rocket-technologies)
@@ -21,7 +21,7 @@
 - [Contributing](#sparkles-issues)
 - [License](#page_facing_up-license)
 
-### :camera: Screenshots
+## :camera: Screenshots
 
 <div align="center">
    <img src="./.github/screen1.png" width="400px">
@@ -30,7 +30,7 @@
    <img src="./.github/screen4.png" width="400px">
 </div>
 
-### :rocket: Technologies
+## :rocket: Technologies
 
 This project was made using the follow technologies:
 
@@ -39,7 +39,7 @@ This project was made using the follow technologies:
 - [Styled Components](https://styled-components.com/)
 - [MirageJS](https://miragejs.com/)
 
-### :computer: How to run
+## :computer: How to run
 
 ```bash
 # Clone Repository
@@ -56,11 +56,11 @@ $ yarn start
 
 Go to http://localhost:3000/ to see the result.
 
-### :bug: Issues
+## :bug: Issues
 
 Create a <a href="https://github.com/brunowbbs/dt-money-web/issues">new issue report</a>, it will be an honor to be able to help you solve and further improve our application.
 
-### :sparkles: Contributing
+## :sparkles: Contributing
 
 - Fork this repository;
 - Create a branch with your feature: `git checkout -b my-feature`;
