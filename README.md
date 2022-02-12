@@ -1,7 +1,5 @@
-<p>
-  <center>
+<p style="align:center;background:#5429cc;">
     <img src="./.github/logo.svg" alt="Move It" width="300"/>
-   </center>
 </p>
 
 <p align="center">
