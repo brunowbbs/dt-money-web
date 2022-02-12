@@ -4,19 +4,6 @@
    </center>
 </p>
 
-<p align="center">	
-   <a href="https://www.linkedin.com/in/brunowbbs/">
-      <img alt="WesleyBruno" src="https://img.shields.io/badge/-LeonneBrito-5965e0?style=flat&logo=Linkedin&logoColor=white" />
-   </a>
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/brunowbbs/dt.money?color=%235963C5" />
-  <img alt="lastcommit" src="https://img.shields.io/github/last-commit/brunowbbs/dt.money?color=%235761C3" />
-  <img alt="License" src="https://img.shields.io/github/license/brunowbbs/dt.money?color=%235E69D7" />
-  <img alt="Issues" src="https://img.shields.io/github/issues/brunowbbs/dt.money?color=%235965E0">
-  <a href="mailto:engwesleybruno@gmail.com">
-   <img alt="Email" src="https://img.shields.io/badge/-engwesleybruno%gmail.com-%23525DCB" />
-  </a>
-</p>
-
 <p align="center">
   :moneybag: Manage your money. Project developed during the second Bootcamp Ignite module | <a href="https://github.com/Rocketseat">@Rocketseat</a>
 </p>
