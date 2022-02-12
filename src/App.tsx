@@ -7,6 +7,7 @@ import { Header } from "./components/Header/intex";
 import { NewTransactionModal } from "./components/NewTransactionModal";
 
 import { GlobalStyle } from "./styles/global";
+import { TransactionsProvider } from "./useTransactions";
 
 Modal.setAppElement(document.createElement("div"));
 
@@ -23,7 +24,7 @@ function App() {
   }
 
   return (
-    <>
+    <TransactionsProvider>
       <GlobalStyle />
       <Header onOpenNewTransactionModal={handleOpenNewTransactionModal} />
       <Dashboard />
@@ -31,7 +32,7 @@ function App() {
         isOpen={isNewTransactionModalOpen}
         onRequestClose={handleCloseNewTransactionModal}
       />
-    </>
+    </TransactionsProvider>
   );
 }
 
